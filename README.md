@@ -28,17 +28,11 @@ The dataset used in this project is the Telco Customer Churn dataset, which cont
 *   joblib (for saving and loading the trained model)
 *   google.colab.sheets (for interactive data exploration in Google Sheets)
 
-## How to Run
-
-1.  Clone the repository.
-2.  Ensure you have the necessary libraries installed (`pip install pandas numpy matplotlib seaborn scikit-learn joblib google.colab`).
-3.  Run the Python notebook.
-4.  (Optional) If you implement the Streamlit app, follow the instructions to run the app locally.
 
 ## Future Work
 
 *   Explore more advanced feature engineering techniques.
-*   Experiment with other classification algorithms (e.g., Logistic Regression, Support Vector Machines, Random Forests, Gradient Boosting).
+*   Experiment with other classification algorithms ( Random Forests).
 *   Perform hyperparameter tuning for the selected models.
 *   Address class imbalance if necessary.
 *   Deploy the model as a web application (e.g., using Streamlit or Flask).
